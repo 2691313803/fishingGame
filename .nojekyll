@@ -1,0 +1,2 @@
+# 禁止 GitHub Pages 使用 Jekyll 构建
+# 否则以下划线开头的文件（如 cocos-js/_virtual_cc-*.js）会被 Jekyll 忽略，导致线上 404、游戏黑屏
